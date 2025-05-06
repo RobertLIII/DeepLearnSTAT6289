@@ -21,7 +21,7 @@ The dataset used is synthetically generated to simulate realistic periodic behav
 
 ## 🛠 Technologies Used
 
-- Python 3.8+
+- Python
 - TensorFlow/Keras
 - NumPy, Pandas
 - Matplotlib
@@ -43,5 +43,4 @@ LSTMs are a class of recurrent neural networks effective for sequential data. Th
 ## ✍️ Author
 
 Robert Long  
-Doctor of Engineering (AI/ML, in progress)  
 [LinkedIn](https://www.linkedin.com/in/robertlongdata) | [Blog](https://intelligenciaexmachina.com)
